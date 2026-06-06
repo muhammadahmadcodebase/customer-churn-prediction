@@ -19,6 +19,7 @@
 - [Key Business Insights](#key-business-insights)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
+- [LICENSE](#license)
 
 ## Project Overview
 
@@ -283,4 +284,14 @@ python -m streamlit run app.py
 
 - LinkedIn: [www.linkedin.com/in/ahmadvision](https://www.linkedin.com/in/ahmadvision)
 - GitHub: [https://github.com/muhammadahmadcodebase](https://github.com/muhammadahmadcodebase)
-- Email: muhammadahmadcodebase@gmail.com
+- Email: [muhammadahmadcodebase@gmail.com]
+
+## License
+
+Copyright © 2026 Muhammad Ahmad
+
+All Rights Reserved.
+
+This project is provided for viewing and educational reference only. No permission is granted to copy, modify, distribute, or reuse any part of the source code without explicit written permission from the author.
+
+For permission requests, contact: [muhammadahmadcodebase@gmail.com]
